@@ -211,7 +211,7 @@ The frontend's default backend URL is `http://localhost:8000`. If you deploy the
 
 ## Team members
 
-| No. | Student name | Student ID |
+| No. | Student name | PRN Number |
 |---:|---|---|
 | 1 | Krish Bhensdadia | 1262250028 |
 | 2 | Pooja Shah | 1262251181 |
