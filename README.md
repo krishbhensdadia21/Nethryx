@@ -6,8 +6,8 @@ NETHRYX is a network traffic analysis dashboard designed to help users inspect p
 
 - **Public GitHub repository:** https://github.com/krishbhensdadia21/nethryx
 - **Published project explanation video:** https://www.youtube.com/watch?v=-LadDH62X08
-- **Project report:** `assets/5_CN_REPORT.pdf` *(add this file if you want the report stored in the repository)*
-- **Presentation:** `assets/5_CN_PPT.pptx` *(add this file if you want the PPT stored in the repository)*
+- **Project report:** `assets/5_CN_REPORT.pdf` 
+- **Presentation:** `assets/5_CN_PPT.pptx`
 
 ## Problem statement
 
